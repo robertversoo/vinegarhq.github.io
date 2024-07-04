@@ -114,7 +114,7 @@ DXVK_HUD = "0"
 MANGOHUD = "1"
 
 [player.fflags]
-DFIntTaskSchedulerTargetFps = 144
+DFIntTaskSchedulerTargetFps = 30
 
 [studio]
 renderer = "OpenGL"
